@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with React and styled with Tailwind
 
 ## ✨ Demo
 
-[Live Demo](https://blank-for-time-being) - Coming Soon!
+- [Live Demo](https://debojit-mitra.github.io/)
 
 ## 🚀 Features
 

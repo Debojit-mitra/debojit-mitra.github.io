@@ -36,6 +36,17 @@ const Projects = () => {
     },
     {
       id: 3,
+      title: "My Space Portfolio",
+      description:
+        "A modern, responsive portfolio website built with React and styled with Tailwind CSS, featuring a captivating space theme and smooth animations.",
+      tags: ["React", "Vite", "portfolio", "Frontend"],
+      categories: "web",
+      github: "https://github.com/Debojit-mitra/Debojit-mitra.github.io",
+      demo: "https://debojit-mitra.github.io",
+      image: "https://i.ibb.co/6FwTmK8/Screenshot-2024-12-24-113507.webp",
+    },
+    {
+      id: 4,
       title: "Infinite-API",
       description:
         "A versatile FastAPI-based project that brings together multiple APIs.",
@@ -45,7 +56,7 @@ const Projects = () => {
       image: "https://i.ibb.co/2ysJXgR/image.png",
     },
     {
-      id: 4,
+      id: 5,
       title: "Infinite-API Documentation",
       description:
         "Documentation to explore API endpoints, built with React for a responsive and interactive experience.",
@@ -56,7 +67,7 @@ const Projects = () => {
       image: "https://i.ibb.co/pjqXQXW/image.png",
     },
     {
-      id: 5,
+      id: 6,
       title: "You See",
       description:
         "An Android app for streaming anime, movies, series, and Asian dramas.",
@@ -67,7 +78,7 @@ const Projects = () => {
       image: "https://i.ibb.co/0s37Zdq/Screenshot-7.png",
     },
     {
-      id: 6,
+      id: 7,
       title: "Anify",
       description:
         "An Android app that turns your home screen into a dynamic mix of fascinating facts and anime images.",
@@ -79,7 +90,7 @@ const Projects = () => {
         "https://github.com/Debojit-mitra/Anify/raw/master/screenshots/Screenshot-1.jpg",
     },
     {
-      id: 7,
+      id: 8,
       title: "async.ai",
       description:
         "AI chatbot designed to revolutionize the way you tackle computer science questions.",
@@ -90,7 +101,7 @@ const Projects = () => {
         "https://raw.githubusercontent.com/Debojit-mitra/async.ai/master/Screenshots/1.jpg",
     },
     {
-      id: 8,
+      id: 9,
       title: "Mystic Artistry",
       description:
         "MysticArtistry, a website dedicated to showcasing and promoting the beauty and craftsmanship of Northeast Handicrafts.",
@@ -102,7 +113,7 @@ const Projects = () => {
         "https://github.com/Debojit-mitra/MysticArtistry/blob/main/screenshots/Screenshot-1.png?raw=true",
     },
     {
-      id: 9,
+      id: 10,
       title: "Calculator",
       description:
         "A comprehensive scientific calculator Android application with a user-friendly interface and advanced mathematical functions.",
@@ -114,7 +125,7 @@ const Projects = () => {
         "https://github.com/Debojit-mitra/Calculator/raw/master/screenshots/Screenshot-1.jpg",
     },
     {
-      id: 10,
+      id: 11,
       title: "StoryFrame",
       description:
         "A Python Streamlit app that creates stories and images based on user prompts using Gemini and Replicate APIs.",
@@ -125,7 +136,7 @@ const Projects = () => {
         "https://github.com/Debojit-mitra/StoryFrame/raw/main/screenshots/Screenshot-1.png",
     },
     {
-      id: 11,
+      id: 12,
       title: "Agrigroww",
       description:
         "Agrigroww is a farmer advisory app that provides tailored guidance and tips to optimize farming practices.",
@@ -136,7 +147,7 @@ const Projects = () => {
         "https://github.com/Debojit-mitra/AgriGroww/raw/f45b34f9b4c3b69a1637dea67fdfabd9f5735a6d/Images/main/Screenshot_20240105_123810.png?raw=true",
     },
     {
-      id: 12,
+      id: 13,
       title: "Splash Wallpaper",
       description:
         "My first Android app, featuring a wallpaper gallery with an admin panel, built using Kotlin.",
@@ -146,7 +157,7 @@ const Projects = () => {
       image: "https://i.ibb.co/kcDG09n/splash-wallpaper.webp",
     },
     {
-      id: 13,
+      id: 14,
       title: "FixMyRoad",
       description:
         "An android app that lets users report road issues with images and locations, aiding quick repairs and better road safety.",

@@ -71,8 +71,7 @@ const Footer = () => {
               Debojit Mitra
             </Link>
             <p className="text-gray-600 dark:text-gray-300 mb-6 max-w-md">
-              Hi there! Explore my creative universe. Where creativity and
-              technology shape impactful solutions.
+            Thank you for exploring my digital universe ✨
             </p>
             {/* Social Links */}
             <div className="flex gap-4">
